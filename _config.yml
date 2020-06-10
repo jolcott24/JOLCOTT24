@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maine's Electoral History"
+title                    : "Maine's Electoral History - A Statistical, Historial, and Governmental Overview"
 title_separator          : "-"
 name                     : "Jack Olcott"
-description              : "My life experiences Articles/Posts"
+description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
