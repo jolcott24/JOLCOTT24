@@ -2,6 +2,7 @@
 layout: page
 title: "Visualizations"
 permalink: /visualizations/
+author_profile: true
 ---
 ## 2013 Referendum Proportion of Yes Votes on Question 1
 
