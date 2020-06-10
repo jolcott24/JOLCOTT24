@@ -178,7 +178,7 @@ incremental: false
 
 
 # Markdown Processing
-kramdown:
+CommonMarkGhPages:
   input: GFM
   hard_wrap: false
   auto_ids: true
