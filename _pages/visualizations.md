@@ -5,7 +5,7 @@ permalink: /visualizations/
 ## 2013 Referendum Proportion of Yes Votes on Question 1
 
 ### with ggplot
-![](2013_map_ggplot.png)
+![](/2013_map_ggplot.png)
 
 ### with R classic
-![](2013_map_R_classic.png)
+![](/2013_map_R_classic.png)
