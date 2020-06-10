@@ -2,28 +2,14 @@
 main:
   - title: "Visualizations"
     url: /visualizations/
-  - title: "Tech Stream"
-    url: /techstream/
-  - title: "Travel Stream"
-    url: /travelstream/
-  - title: Archive
+  - title: "Timeline"
+    url: /timeline/
+  - title: "Raw Data"
+    url: /rawdata/
+  - title: Tutorials
     sublinks:
-      - title: By Tag
-        url: /tags/
-      - title: By Category
-        url: /categories/
-      - title: By Year
-        url: /year-archive/
-  # TITLE/URL EXAMPLE
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  #
-  # DROP DOWN BUTTON EXAMPLE
-  # - title: Support
-  #   sublinks:
-  #     - title: FAQ
-  #       url: /faq/
-  #     - title: Documentation
-  #       url: /Documentation/
-  #     - title: Customer Support
-  #       url: /Support/
+      - title: Town Names to Spatial Plots
+        url: /towntospatial/
+      - title: Tutorial 2
+        url: /tutorial2
+      
