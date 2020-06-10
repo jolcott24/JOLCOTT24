@@ -8,7 +8,7 @@ main:
     sublinks:
       - title: "Raw Data"
         url: /rawdata/
-      - title: "Coding Held"
+      - title: "Coding Help"
         url: /codinghelp/
   - title: "Bibliography"
     url: /bibliography/
