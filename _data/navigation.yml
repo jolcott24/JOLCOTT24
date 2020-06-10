@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About Me"
-    url: /about/
+  - title: "Visualizations"
+    url: /visualizations/
   - title: "Tech Stream"
     url: /techstream/
   - title: "Travel Stream"
