@@ -4,10 +4,11 @@ main:
     url: /visualizations/
   - title: "Timeline"
     url: /timeline/
-  - title: "Raw Data"
-    url: /rawdata/
-  - title: "Data Resources"
+  - title: Data Resources
     url: /dataresources/
+    sublinks:
+      - title: "Raw Data"
+        url: /rawdata/
   - title: "Bibliography"
     url: /bibliography/
   - title: Tutorials
