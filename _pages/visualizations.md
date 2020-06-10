@@ -7,5 +7,5 @@ permalink: /visualizations/
 ### with ggplot
 ![](2013_map_ggplot.png)
 
-## with R classic
+### with R classic
 ![](2013_map_R_classic.png)
