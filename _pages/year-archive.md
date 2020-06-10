@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /year-archive/
-layout: posts
-author_profile: true
+title: "Data Resources"
+permalink: /dataresources/
+layout: page
 ---
+- [Geocoding with R](https://www.jessesadler.com/post/geocoding-with-r/)
