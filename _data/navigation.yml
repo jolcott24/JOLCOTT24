@@ -6,6 +6,10 @@ main:
     url: /timeline/
   - title: "Raw Data"
     url: /rawdata/
+  - title: "Data Resources"
+    url: /dataresources/
+  - title: "Bibliography"
+    url: /bibliography/
   - title: Tutorials
     sublinks:
       - title: Town Names to Spatial Plots
