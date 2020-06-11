@@ -4,12 +4,7 @@ title: "Timeline"
 permalink: /timeline/
 ---
 
-<<insertHTML:[timeline.html]
+![cute cat image](https://rpubs.com/jolcott/626474)
 
-etc, etc, etc
-
-```{r, echo=FALSE}
-htmltools::includeHTML("timeline.html")
-```
 
 [timeline](http://rpubs.com/jolcott/626474)
