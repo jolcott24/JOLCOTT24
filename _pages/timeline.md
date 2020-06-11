@@ -3,7 +3,7 @@ title: "Timeline"
 output: html_document
 ---
 
-<<insertHTML:[test.html]
+<<insertHTML:[/assests/html/timeline.html]
 
 etc, etc, etc
 
