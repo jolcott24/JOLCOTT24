@@ -9,5 +9,5 @@ author_profile: true
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with ggplot
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/2013_map_ggplot.png)
 
-### with R classic
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with R classic
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/2013_map_R_classic.png)
