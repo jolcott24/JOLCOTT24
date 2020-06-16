@@ -3,6 +3,13 @@ title: "Town Names to Spatial Plots"
 layout: page
 permalink: /towntospatial/
 ---
+
+<style type="text/css">
+<!--
+ .tab { margin-left: 40px; }
+-->
+</style>
+
   ### Turning Location Names into Spatial Maps using R Classic (with a few helpful packages)
 
   In this tutorial, I will demonstrate how to create a spatial plot in R. My example will be centered around creating a map of voting proportions by town in the state of Maine, but the code used is applicable to a wide variety of spatial data sets. 
