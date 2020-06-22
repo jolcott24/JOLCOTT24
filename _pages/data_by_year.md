@@ -2,6 +2,6 @@
 output: html_document
 ---
 
-```{r shiny-app}
+```{r}
 knitr::include_app("https://jackolcott.shinyapps.io/liken/")
 ```
