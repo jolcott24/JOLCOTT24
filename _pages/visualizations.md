@@ -13,5 +13,5 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](/2013_map_R_classic.png)
 
 ```{r shiny-app}
-knitr::include_app("https://jackolcott.shinyapps.io/liken/?_ga=2.215977111.1442970768.1592796933-1295646659.1591380206")
+knitr::include_app("https://jackolcott.shinyapps.io/liken/")
 ```
