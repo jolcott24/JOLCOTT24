@@ -1,7 +1,7 @@
 ---
 title: "Data by Year"
 permalink: /data_by_year_page/
-layout: default
+layout: single
 author_profile: true
 ---
 
