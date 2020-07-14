@@ -3,7 +3,7 @@ main:
   - title: "Visualizations"
     url: /visualizations/
   - title: "Data by Year"
-    url: /data_by_year/
+    url: /data_by_year_page/
   - title: "Timeline"
     url: /timeline/
   - title: Data Resources
