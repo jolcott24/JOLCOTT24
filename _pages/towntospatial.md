@@ -1,6 +1,6 @@
 ---
 title: "Town Names to Spatial Plots"
-layout: page
+layout: single
 permalink: /towntospatial/
 ---
 
