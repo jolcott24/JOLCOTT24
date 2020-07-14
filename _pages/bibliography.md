@@ -1,7 +1,8 @@
 ---
 title: "Bibliography"
 permalink: /bibliography/
-layout: page
+layout: single
+author_profile: true
 ---
 + Woodard, Colin. The Lobster Coast: Rebels, Rusticators, and the Struggle for a Forgotten Frontier. Penguin Books, 2005.
 + Potholm, Christian Peter. This Splendid Game: Maine Campaigns and Elections, 1940-2002. Lexington Books, 2003.
