@@ -1,6 +1,6 @@
 ---
 title: "Data by Year"
-permalink: /data_by_year/
+permalink: /data_by_year_page/
 layout: page
 author_profile = true
 ---
