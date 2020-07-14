@@ -1,8 +1,6 @@
 ---
 title: "Town Names to Spatial Plots"
-layout: single
 permalink: /towntospatial/
-author_profile: true
 ---
 
   ### Turning Location Names into Spatial Maps using R Classic (with a few helpful packages)
