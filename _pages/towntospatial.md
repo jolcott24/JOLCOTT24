@@ -64,7 +64,7 @@ layout: splash
   points(all$lat ~ all$lon)
   ```
 
-  Running this code should produce the following visual in R studio. <img src="images/maine_towns.jpeg" width="800" />
+  Running this code should produce the following visual in R studio. <img src="images/maine_towns.JPEG" width="800" />
 
   Now that I have successfully mapped the locations for each town name, the next step is to represent the proportion of yes votes per town with color. 
 
