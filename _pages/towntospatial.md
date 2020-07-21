@@ -26,9 +26,9 @@ layout: splash
   #### Using Google Maps API Key
   The next step is the most difficult task in creating spatial maps. There are many ways to access spatial data sets that have longitude and latitude, but one of the most streamlined ways to do this is to use google maps to create these data for you based on town/city/state/country names. To use google maps to turn my town data into spatial data, I will need to create an API Key and register my account in RStudio. To get the API key, follow the instructions at [the google maps API documentation page.](https://developers.google.com/maps/documentation/embed/get-api-key) Once you have registered for an account and gotten your API Key, all you need to do is write the following code, inserting your API Key within the parentheses. 
 
-  ```
-  register_google(your_API_key)
-  ```
+ <mark>  register_google(your_API_key) </mark>
+ 
+  
 
   What's also important to note is that you have a daily limit of 2500 location queries per day, meaning I can only look up 2500 town names each day. If you wan't unlimited query access you will have to apply for a developer account with google. 
 
