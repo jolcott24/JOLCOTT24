@@ -35,6 +35,12 @@ layout: splash
   #### Updating your Data Set with Lon and Lat
   Once you have registered your google account in RStudio, you can begin the process of converting your location names into Latitude and Longitude. The function you will need is `mutate_geocode`. Mutate geocode uses google maps to turn location names (ex: ABBOT Maine) into a specific spatial data point. Mutate geocode requires a dataset and a column to access. In the case of my data set, I will be using the "City" column. 
 
+<style>
+div.blue pre { background-color:lightblue; }
+div.blue pre.r { background-color:blue; }
+</style>
+
+<div class = "blue">
   ```
   # read in your csv file with location names
   locations <- read.csv("referendums.csv") #referendums.csv is the name of the file on my computer
@@ -47,8 +53,8 @@ layout: splash
 
   #save your file locally to your computer so that you don't have to run mutate geocode again
   write.csv(locations_lat_lon, "locations_updated.csv")
-
   ```
+  </div>
 
   Now, hopefully you have been able to store your new file to your computer with columns for city names, latitude, and longitude. If you see your new "locations_updated.csv" file on your computer, and it has correct latitude and longitude points for each location name, lets now download this data into R. 
 
