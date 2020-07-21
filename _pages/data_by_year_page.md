@@ -11,5 +11,5 @@ author_profile: true
 * [2015 Referendum](/data_by_year/all_2015.csv)
 * [2014 Referendum](/data_by_year/all_2014.csv)
 * [2013 Referendum](/data_by_year/all_2013.csv)
-* [2012 Referendum](/data_by_year/all_2012.csv)
+* [2012 Referendum](/all_2012_c.csv)
 
