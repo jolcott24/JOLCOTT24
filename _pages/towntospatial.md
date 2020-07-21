@@ -15,7 +15,7 @@ layout: splash
 
   Next, lets import the packages we will be using to gather the and plot the spatial data. Run the following code: 
 
-  ``` 
+  ``` {r df-drop-ok, class.source="bg-success"}
   install.packages("maps")
   install.packages("ggmaps")
 
