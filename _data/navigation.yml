@@ -18,6 +18,5 @@ main:
     sublinks:
       - title: Town Names to Spatial Plots
         url: /towntospatial/
-      - title: Tutorial 2
-        url: /tutorial2/
+    
       
